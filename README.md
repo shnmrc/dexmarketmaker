@@ -4,7 +4,7 @@
   <br>
   <a href="#"><img src="https://assets.shano-web.com/shano-modified.png" alt="IvanShano" width="200"></a>
   <br>
-  Market Maker
+  Automated DEX Market Maker (Uniswap)
   <br>
 </h1>
 <p align="center" width="100%">
