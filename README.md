@@ -18,13 +18,14 @@
 
 * Search Tokens - Search using DEXScreener API, fetching pairdata.
   - Watch chart and build trade flows.
-  ![screenshot](https://assets.shano-web.com/searchtokens.gif)
+  ![SearchTokens](https://assets.shano-web.com/searchtokens.gif)
 * Generate unlimited wallets
   - Generate wallets, set labels and use groups.
-  ![screenshot](https://assets.shano-web.com/generatewallets.gif)
-  ![screenshot](https://assets.shano-web.com/dolabels.gif)
+  ![GenerateWallets](https://assets.shano-web.com/generatewallets.gif)
+  ![DoLabels](https://assets.shano-web.com/dolabels.gif)
 * Airdrop ETH or Tokens between generated wallets. 
-    - Airdrop contract audited and secured by [thirdweb](https://thirdweb.com/) lab.![screenshot](https://assets.shano-web.com/dolabels.gif)
+    - Airdrop contract audited and secured by [thirdweb](https://thirdweb.com/) lab.
+      ![Airdrop](https://assets.shano-web.com/airdrop.gif)
 * Single buys/sells and flows.
     - Ability to do mass buys/sells with the same value settings and custom delays between buys.
     - Full position orders.
