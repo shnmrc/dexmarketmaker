@@ -8,7 +8,7 @@
   <br>
 </h1>
 <p align="center">
-![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,supabase,tailwind,ts&theme=light)
+![Stack](https://skillicons.dev/icons?i=nodejs,nextjs,supabase,tailwind,ts&theme=light)
 </p>
 <h4 align="center">Automated DEX Market Maker. Currently supported Uniswap. Generate wallets and market make tokens.</h4>
 
@@ -18,11 +18,11 @@
 
 * Search Tokens - Search using DEXScreener API, fetching pairdata.
   - Watch chart and build trade flows.
-  ![SearchTokens](https://assets.shano-web.com/searchtokens.gif)
+  ![SearchTokens](https://github.com/shnmrc/dexmarketmaker/blob/c12323382cc5f90f247e3d4f88fc7af8fcec2868/assets/searchtokens.gif)
 * Generate unlimited wallets
   - Generate wallets, set labels and use groups.
-  ![GenerateWallets](https://assets.shano-web.com/generatewallets.gif)
-  ![DoLabels](https://assets.shano-web.com/dolabels.gif)
+  ![GenerateWallets](https://github.com/shnmrc/dexmarketmaker/blob/c12323382cc5f90f247e3d4f88fc7af8fcec2868/assets/generatewallets.gif)
+  ![DoLabels](https://github.com/shnmrc/dexmarketmaker/blob/c12323382cc5f90f247e3d4f88fc7af8fcec2868/assets/dolabels.gif)
 * Airdrop ETH or Tokens between generated wallets. 
     - Airdrop contract audited and secured by [thirdweb](https://thirdweb.com/) lab.
       ![Airdrop](https://github.com/shnmrc/dexmarketmaker/blob/c12323382cc5f90f247e3d4f88fc7af8fcec2868/assets/airdrop.gif)
