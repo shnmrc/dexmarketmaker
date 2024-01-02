@@ -8,7 +8,7 @@
   <br>
 </h1>
 <p align="center">
-![Stack](https://skillicons.dev/icons?i=nodejs,nextjs,supabase,tailwind,ts&theme=light)
+	![Stack](https://skillicons.dev/icons?i=nodejs,nextjs,supabase,tailwind,ts&theme=light)
 </p>
 <h4 align="center">Automated DEX Market Maker. Currently supported Uniswap. Generate wallets and market make tokens.</h4>
 
