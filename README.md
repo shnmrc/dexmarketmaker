@@ -1,2 +1,64 @@
-# dexmarketmaker
-Automated DEX Market Maker. Currently supported Uniswap. Generate wallets and market make tokens.
+
+
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://assets.shano-web.com/shano-modified.png" alt="Markdownify" width="200"></a>
+  <br>
+  Market Maker
+  <br>
+</h1>
+<p align="center">
+![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,supabase,tailwind,ts&theme=light)
+</p>
+<h4 align="center">Automated DEX Market Maker. Currently supported Uniswap. Generate wallets and market make tokens.</h4>
+
+![screenshot](https://assets.shano-web.com/generateflows.gif)
+
+## Key Features
+
+* Search Tokens - Search using DEXScreener API, fetching pairdata.
+  - Watch chart and build trade flows.
+  ![screenshot](https://assets.shano-web.com/searchtokens.gif)
+* Generate unlimited wallets
+  - Generate wallets, set labels and use groups.
+  ![screenshot](https://assets.shano-web.com/generatewallets.gif)
+  ![screenshot](https://assets.shano-web.com/dolabels.gif)
+* Airdrop ETH or Tokens between generated wallets. 
+    - Airdrop contract audited and secured by [thirdweb](https://thirdweb.com/) lab.![screenshot](https://assets.shano-web.com/dolabels.gif)
+* Single buys/sells and flows.
+    - Ability to do mass buys/sells with the same value settings and custom delays between buys.
+    - Full position orders.
+    - Ability generate Automated Flows. All what you need to do fill required inputs and generate. Each transaction cost is: value - gascost = estimated receive value.
+    - All transactions have ETA gas settings, if gas limit can't be estimated using standart 500.000 gas limit.
+    - As router on backend using AlptaRouter/UniswapV3Router/Smart-order-router.
+    - RPC can be customized via backend. By default using Infura.
+    - Buy and sell orders can work as async and sync jobs.  
+* Sweep balances to connected wallet.
+	- Ability to sweep ETH or Token balance of all selected wallets to connected wallet.
+* Orders and transactions management.
+* Favorite tokens.
+	- Search and save tokens as favorite.
+
+## How To Use
+
+For public currently not available, only by private request. Reach me via contact details for more info.
+
+## Credits
+
+This software uses the following open source packages:
+
+- [Supabase](https://supabase.com/)
+- [NextJS13](https://nextjs.org/)
+- [Node.js](https://nodejs.org/en)
+- [Ethers.js](https://docs.ethers.org/v6/)
+- [React-flow](https://reactflow.dev/)
+- [BullMQ](https://docs.bullmq.io/)
+- [RainbowKit](https://www.rainbowkit.com/)
+## Contacts
+
+My telegram [@shanowebcn](https://t.me/shanowebcn) ![Telegram](https://avatars.githubusercontent.com/u/6113871?s=24&v=4)
+
+## License
+
+MIT
+
