@@ -12,7 +12,7 @@
 </p>
 <h4 align="center">Automated DEX Market Maker. Currently supported Uniswap. Generate wallets and market make tokens.</h4>
 
-![screenshot](https://assets.shano-web.com/generateflows.gif)
+![screenshot](https://github.com/shnmrc/dexmarketmaker/blob/c12323382cc5f90f247e3d4f88fc7af8fcec2868/assets/generateflows.gif)
 
 ## Key Features
 
@@ -25,7 +25,7 @@
   ![DoLabels](https://assets.shano-web.com/dolabels.gif)
 * Airdrop ETH or Tokens between generated wallets. 
     - Airdrop contract audited and secured by [thirdweb](https://thirdweb.com/) lab.
-      ![Airdrop](https://assets.shano-web.com/airdrop.gif)
+      ![Airdrop](https://github.com/shnmrc/dexmarketmaker/blob/c12323382cc5f90f247e3d4f88fc7af8fcec2868/assets/airdrop.gif)
 * Single buys/sells and flows.
     - Ability to do mass buys/sells with the same value settings and custom delays between buys.
     - Full position orders.
