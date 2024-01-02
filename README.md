@@ -28,24 +28,24 @@
 * Single buys/sells and flows.
     - Ability to do mass buys/sells with the same value settings and custom delays between buys.
     - Full position orders.
-    - Ability generate Automated Flows. All what you need to do fill required inputs and generate. Each transaction cost is: value - gascost = estimated receive value.
-    - All transactions have ETA gas settings, if gas limit can't be estimated using standart 500.000 gas limit.
-    - As router on backend using AlptaRouter/UniswapV3Router/Smart-order-router.
-    - RPC can be customized via backend. By default using Infura.
+    - Ability to generate Automated Flows. All that you need to do is fill required inputs and generate. Each transaction cost is: value - gascost = estimated receive value.
+    - All transactions have ETA gas settings if the gas limit can't be estimated using the standard 500.000 gas limit.
+    - As router on the backend using AlptaRouter/UniswapV3Router/Smart-order-router.
+    - RPC can be customized via the backend. By default using Infura.
     - Buy and sell orders can work as async and sync jobs.  
-* Sweep balances to connected wallet.
-	- Ability to sweep ETH or Token balance of all selected wallets to connected wallet.
+* Sweep balances to the connected wallet.
+	- Ability to sweep ETH or Token balance of all selected wallets to the connected wallet.
 * Orders and transactions management.
 * Favorite tokens.
-	- Search and save tokens as favorite.
+	- Search and save tokens as favourites.
 
 ## How To Use
 
-For public currently not available, only by private request. Reach me via contact details for more info.
+For the public currently not available, only by private request. Reach me via contact details for more info.
 
 ## Credits
 
-This software uses the following open source packages:
+This software uses the following open-source packages:
 
 - [Supabase](https://supabase.com/)
 - [NextJS13](https://nextjs.org/)
