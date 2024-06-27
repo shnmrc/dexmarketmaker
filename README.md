@@ -10,7 +10,7 @@
 <p align="center" width="100%">
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,supabase,tailwind,ts&theme=light">
 </p>
-<h4 align="center">Automated DEX Market Maker. Currently supported Uniswap. Generate wallets and market make tokens.</h4>
+<h4 align="center">Automated DEX Market Maker. Currently supported Uniswap(Mainnet, Base), Raydium (Solana). Generate wallets and market make tokens.</h4>
 
 ![screenshot](https://github.com/shnmrc/dexmarketmaker/blob/c12323382cc5f90f247e3d4f88fc7af8fcec2868/assets/generateflows.gif)
 
